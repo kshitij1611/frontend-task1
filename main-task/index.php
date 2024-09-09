@@ -1,0 +1,12 @@
+<?php include("includes/header.php");?>
+<?php include("components/hero-section.php");?>
+<?php include("components/about-section.php");?>
+<?php include("components/why-dps.php");?>
+<?php include("components/about-section2.php")?>
+<?php include("components/where-education.php")?>
+<?php include("components/gallery-section.php");?>
+<?php include("components/rohit-sharma-section.php");?>
+<?php include("components/beyond-classroom.php");?>
+<?php include("components/blog-section.php");?>
+<?php include("components/testimonial-section.php");?>
+<?php include("includes/footer.php");?>
